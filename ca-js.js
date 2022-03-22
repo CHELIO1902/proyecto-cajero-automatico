@@ -68,7 +68,7 @@ function retiro (cantidad, cliente){
 // boton cierre de cesion
 
 function cierreSesion (){
-  let cierre1 = location.href ="login.html"
+  let cierre1 = location.href ="index.html"
   // sirve para borrar los datos almancenados en la base de datos del navegador
    localStorage.clear()
 }
